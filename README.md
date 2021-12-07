@@ -1,29 +1,23 @@
- ░██████╗░█████╗░███████╗███████╗████████╗░█████╗░██╗░░██╗███████╗███╗░░██
- ██╔════╝██╔══██╗██╔════╝██╔════╝╚══██╔══╝██╔══██╗██║░██╔╝██╔════╝████╗░██
- ╚█████╗░███████║█████╗░░█████╗░░░░░██║░░░██║░░██║█████═╝░█████╗░░██╔██╗██
- ░╚═══██╗██╔══██║██╔══╝░░██╔══╝░░░░░██║░░░██║░░██║██╔═██╗░██╔══╝░░██║╚████
- ██████╔╝██║░░██║██║░░░░░███████╗░░░██║░░░╚█████╔╝██║░╚██╗███████╗██║░╚███
- ╚═════╝░╚═╝░░╚═╝╚═╝░░░░░╚══════╝░░░╚═╝░░░░╚════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚══
+███████╗██╗░░██╗░██████╗░██████╗░░█████╗░████████╗░██████╗░██╗░░██╗███████╗███╗░░░██╗
+██╔════╝╚██╗██╔╝██╔═══██╗██╔══██╗██╔══██╗╚══██╔══╝██╔═══██╗██║░██╔╝██╔════╝████╗░░██║
+█████╗░░░╚███╔╝░██║░░░██║██║░░██║███████║░░░██║░░░██║░░░██║█████╔╝░█████╗░░██╔██╗░██║
+██╔══╝░░░██╔██╗░██║░░░██║██║░░██║██╔══██║░░░██║░░░██║░░░██║██╔═██╗░██╔══╝░░██║╚██╗██║
+███████╗██╔╝░██╗╚██████╔╝██████╔╝██║░░██║░░░██║░░░╚██████╔╝██║░░██╗███████╗██║░╚████║
+╚══════╝╚═╝░░╚═╝░╚═════╝░╚═════╝░╚═╝░░╚═╝░░░╚═╝░░░░╚═════╝░╚═╝░░╚═╝╚══════╝╚═╝░░╚═══╝
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
-![GitHub version](https://img.shields.io/github/v/release/solidity-guru/safetoken?include_prereleases)
+<!-- ![GitHub version](https://img.shields.io/github/v/release/solidity-guru/safetoken?include_prereleases)
 ![GitHub release data](https://img.shields.io/github/release-date-pre/solidity-guru/safetoken)
 ![Github commits](https://img.shields.io/github/commits-since/solidity-guru/safetoken/v1.0-beta?include_prereleases)
 ![GitHub stars](https://img.shields.io/github/stars/solidity-guru/safetoken)
 [![GitHub Issues](https://img.shields.io/github/issues/solidity-guru/safetoken)](https://github.com/solidity-guru/safetoken/issues)
 ![Github](https://img.shields.io/github/downloads/solidity-guru/safetoken/total?style=flat)
 [![License](https://img.shields.io/github/license/solidity-guru/safetoken?style=flat)](https://opensource.org/licenses/MIT)
-[![Discord](https://img.shields.io/discord/830637298109644820)](https://discord.gg/cUNrn8Urdw)
+[![Discord](https://img.shields.io/discord/830637298109644820)](https://discord.gg/cUNrn8Urdw) -->
 
-# Safetoken
+# ExodaToken
 
-This is a rewrite of Safemoon in the hope to:
-
-- make it easier to change the tokenomics
-- make it easier to maintain the code and develop it further
-- remove redundant code
-- fix some of the issues reported in the Safemoon [audit](https://www.certik.org/projects/safemoon)
-
-Visit our [discord](https://discord.gg/zn86MDCQcM)
+This is a fork of Safetoken.
 
 ## Features
 
@@ -51,11 +45,14 @@ function _addFees() private {
 ## Authors
 
 ex. 0f0crypto
+Ing. Michael Goldfinger
 
 ## Version History
 
  * v1.0beta
     * Initial release
+ * v1.0
+    * Setup Tokenomics
 
 
 ## License
