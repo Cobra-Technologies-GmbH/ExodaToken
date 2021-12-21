@@ -33,7 +33,7 @@ abstract contract Tokenomics {
     
     // --------------------- Token Settings ------------------- //
 
-    string internal constant NAME = "ExodaToken";
+    string internal constant NAME = "Exoda Token";
     string internal constant SYMBOL = "EXODA";
     
     uint16 internal constant FEES_DIVISOR = 10**3;
